@@ -222,9 +222,9 @@ From projectportfolio.nashville_housing_data_for_data_cleaning
 
 ALTER TABLE projectportfolio.nashville_housing_data_for_data_cleaning
 DROP COLUMN OwnerAddress, 
-drop column TaxDistrict,
-drop column PropertyAddress,
-drop column SaleDate
+DROP column TaxDistrict,
+DROP column PropertyAddress,
+DROP column SaleDate
 
 
 
